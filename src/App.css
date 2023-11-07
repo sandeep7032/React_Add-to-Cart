@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  /* background-image: url("https://images.unsplash.com/photo-1615715757401-f30e7b27b912?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMTI1NDUzfHxlbnwwfHx8fHw%3D&w=1000&q=80");
+  background-size: cover;
+  background-repeat: repeat-y; */
+}
+
+.home {
+  padding: 50px;
+  margin: 10px;
+  /* background-image: url("https://images.unsplash.com/photo-1615715757401-f30e7b27b912?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxMTI1NDUzfHxlbnwwfHx8fHw%3D&w=1000&q=80");
+  background-size: cover; */
+}

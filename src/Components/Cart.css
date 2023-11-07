@@ -1,0 +1,16 @@
+.cart-container {
+  display: flex;
+  box-shadow: 0 0 10px black;
+  padding: 30px;
+  width: 1000px;
+  margin: 30px auto;
+}
+.img-div {
+  width: 30%;
+  margin-right: 30px;
+  text-align: center;
+}
+.details {
+  width: 60%;
+  text-align: left;
+}

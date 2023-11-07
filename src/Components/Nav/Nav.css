@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+  padding: 20px;
+  background-color: whitesmoke;
+  box-shadow: 0 0 5px black;
+}
+.title {
+  width: 40%;
+  color: green;
+}
+.title h2 {
+  margin: 0;
+}
+.menu {
+  width: 60%;
+}
+a {
+  text-decoration: none;
+  margin-right: 70px;
+  color: black;
+}
+a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.flexC {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
